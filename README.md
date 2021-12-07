@@ -9,8 +9,8 @@ Neste projeto, foram aplicadas técnicas de aprendizagem não supervisionada em 
 Dados: https://archive.ics.uci.edu/ml/datasets/Wholesale+customers
 
 
-    Segmento do Cluster 1: Representa os clientes que compram muitos secos/molhados e leite,é o consumidor varejista.
+Segmento do Cluster 1: Representa os clientes que compram muitos secos/molhados e leite,é o consumidor varejista.
     
-    Segmento do Cluster 0: São os clientes que compram muitos alimentos frescos,com número equilibrado para compras de leite,secos/molhados,congelados.É o restaurante ou café.
+Segmento do Cluster 0: São os clientes que compram muitos alimentos frescos,com número equilibrado para compras de leite,secos/molhados,congelados.É o restaurante ou café.
 
-![ ](https://github.com/rodfloripa/Projeto9/tree/master/customer_segments/clusters.png)
+![ ](https://github.com/rodfloripa/Projeto9/blob/master/customer_segments/clusters.png)
